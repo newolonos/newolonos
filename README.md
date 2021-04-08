@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [newolonos.github.io](newolonos.github.io)
+- 👨‍💻 All of my projects are available at [newolonos.github.io](https://newolonos.github.io)
 
 - 📫 How to reach me **Discord: newolonos#1413**
 
@@ -31,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=newolonos&show_icons=true&locale=en" alt="newolonos" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newolonos&" alt="newolonos" /></p>
-
