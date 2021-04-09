@@ -19,7 +19,7 @@
 <a href="https://fb.com/newolonos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="newolonos" height="30" width="40" /></a>
 <a href="https://instagram.com/newolonos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="newolonos" height="30" width="40" /></a>
 <a href="https://www.behance.net/jonasbumer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="jonasbumer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jonas bäumer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jonas bäumer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC_NTqo6nDiMtmNN4gZvDgZA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jonas bäumer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
