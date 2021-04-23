@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [newolonos.github.io](https://newolonos.github.io)
 
-- 📫 How to reach me **Discord: newolonos#1413**
+- 📫 How to reach me: **Discord: newolonos#1413**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
