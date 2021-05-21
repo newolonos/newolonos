@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [newolonos.github.io](https://newolonos.github.io)
+- 👨‍💻 All of my projects are available at [newolonos.gq](https://newolonos.gq)
 
 - 📫 How to reach me: **Discord: newolonos#1413**
 
