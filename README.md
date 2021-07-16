@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/newolonos" target="blank"><img src="https://img.shields.io/twitter/follow/newolonos?logo=twitter&style=for-the-badge" alt="newolonos" /></a> </p>
 
-- 🔭 I’m currently working on [newolonos.gq](https://github.com/NEWOLONOS/newolonos.github.io)
+- 🔭 I’m currently working on [newolonos.gq](https://newolonos.gq)
 
 - 🌱 I’m currently learning **HTML, CSS**
 
