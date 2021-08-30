@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jonas</h1>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newwolonos)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=newolonos&repo=newolonos)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newolonos" alt="newolonos" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/newolonos" target="blank"><img src="https://img.shields.io/twitter/follow/newolonos?logo=twitter&style=for-the-badge" alt="newolonos" /></a> </p>
